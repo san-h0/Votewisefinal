@@ -1,0 +1,6 @@
+{
+  "name": "VoterPath — Interactive Election Lifecycle & EVM Simulation Hub",
+  "description": "Empowering citizens and first-time voters through an authentic digital EVM/VVPAT polling booth simulator, election lifecycle visualizer, readiness diagnostic wizard, and civic myth buster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
